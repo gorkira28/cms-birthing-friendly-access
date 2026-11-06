@@ -1,0 +1,19 @@
+{
+  "cms_hospitals_total": 5419,
+  "designated_hospitals_50_states_dc": 2256,
+  "designated_hospitals_all_cms_rows": 2263,
+  "excluded_puerto_rico_designated": 7,
+  "female_population_15_44_2025": 67720228,
+  "national_designated_per_100k_female_15_44": 3.33135322580426,
+  "state_median_rate": 3.740224766729454,
+  "lowest_state": "NV",
+  "lowest_state_rate": 2.0081158775543617,
+  "highest_state": "WY",
+  "highest_state_rate": 9.084384850879824,
+  "designated_critical_access_hospitals": 215,
+  "designated_critical_access_share_pct": 9.500662836942112,
+  "spearman_population_count_rho": 0.9216388450022546,
+  "spearman_population_count_p": 8.790164089653548e-22,
+  "spearman_density_cah_share_rho": 0.7025385201425315,
+  "spearman_density_cah_share_p": 9.13129069383739e-09
+}

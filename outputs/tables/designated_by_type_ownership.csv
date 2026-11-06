@@ -1,0 +1,20 @@
+hospital_type,hospital_ownership,size
+Acute Care Hospitals,Government - Federal,12
+Acute Care Hospitals,Government - Hospital District or Authority,147
+Acute Care Hospitals,Government - Local,105
+Acute Care Hospitals,Government - State,31
+Acute Care Hospitals,Physician,8
+Acute Care Hospitals,Proprietary,312
+Acute Care Hospitals,Tribal,4
+Acute Care Hospitals,Voluntary non-profit - Church,144
+Acute Care Hospitals,Voluntary non-profit - Other,169
+Acute Care Hospitals,Voluntary non-profit - Private,1116
+Critical Access Hospitals,Government - Hospital District or Authority,34
+Critical Access Hospitals,Government - Local,35
+Critical Access Hospitals,Government - State,1
+Critical Access Hospitals,Physician,1
+Critical Access Hospitals,Proprietary,7
+Critical Access Hospitals,Tribal,1
+Critical Access Hospitals,Voluntary non-profit - Church,15
+Critical Access Hospitals,Voluntary non-profit - Other,13
+Critical Access Hospitals,Voluntary non-profit - Private,108

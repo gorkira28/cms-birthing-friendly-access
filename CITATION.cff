@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Mapping CMS Birthing-Friendly Hospital Designation Density"
+type: software
+authors:
+  - family-names: Gor
+    given-names: Kira
+    suffix: BDS, MPH
+url: "https://github.com/gorkira28/cms-birthing-friendly-access"
+repository-code: "https://github.com/gorkira28/cms-birthing-friendly-access"
+date-released: 2026-11-06
+license: MIT
+version: 1.0.0
+

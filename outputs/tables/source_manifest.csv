@@ -1,0 +1,4 @@
+file,bytes,sha256,source_url
+cms_hospital_general_2026-07-22.csv,1450767,f874f09fef895a1ccf5bb7392dcbb2be05c9860339261b093fe00f0c1b013480,https://data.cms.gov/provider-data/sites/default/files/resources/893c372430d9d71a1c52737d01239d47_1785189955/Hospital_General_Information.csv
+census_state_age_sex_2025.csv,913645,34f91285d43eb2b7d9873481bb2c610e214511d0ee9c4ff525555e7b223e4e95,https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/asrh/sc-est2025-agesex-civ.csv
+cb_2025_us_state_20m.zip,184850,9340b6d995e971b2b4230518f4fa85e6cd9e7fe6811afabc90a6a8b1191530f6,https://www2.census.gov/geo/tiger/GENZ2025/shp/cb_2025_us_state_20m.zip
